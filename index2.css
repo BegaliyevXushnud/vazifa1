@@ -1,0 +1,21 @@
+
+body{
+    background: linear-gradient(#085467,#AFA7BB,#F4C0B3) 100%;
+}
+.one{
+    width: 700px;
+    height: 600px;
+    background-color: aliceblue;
+    padding: 20px;
+    display: inline-block;
+    margin: 30px auto;
+}
+.one img{
+    width: 47%;
+    height: 100%;
+    
+}
+span{
+    padding: 10px,20px;
+
+}

@@ -1,0 +1,33 @@
+
+body{
+    background-color: black;
+}
+.katta{
+    width: 840px;
+    height: 670px;
+   padding: 10px,20px;
+   display: flex;
+    margin: 0 auto;
+}
+.div{
+    width: 250px;
+    height: 400px;
+    
+    padding: 20px;
+ margin: 30px auto;
+ border: 2px solid aqua;
+ border-radius: 10px;
+ margin-left: 1cm;
+ color: aliceblue;
+}
+.div img{
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+}
+a{
+    text-decoration: none;
+    border: 2px solid aqua;
+    padding: 10px;
+    color: white;
+}
